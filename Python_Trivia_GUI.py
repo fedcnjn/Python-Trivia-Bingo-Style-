@@ -6,6 +6,12 @@ import random
 # Licensed under CC BY-NC-ND 4.0
 # Free to play. Do not sell, remix, or redistribute without permission.
 
+print('PYTHON Bingo Trivia')
+print('Created by Joseph Morrison')
+print('Licensed under CC BY-NC-ND 4.0')
+print('Free to play. Do not sell, remix, or redistribute without permission.')
+
+
 # All 50 beginner questions
 questions = [
     ("What keyword defines a function?", ["def", "func", "define"], "def"),
