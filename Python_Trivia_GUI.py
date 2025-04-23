@@ -1,6 +1,11 @@
 import tkinter as tk
 import random
 
+# PYTHON Bingo Trivia
+# Created by Joseph Morrison
+# Licensed under CC BY-NC-ND 4.0
+# Free to play. Do not sell, remix, or redistribute without permission.
+
 # All 50 beginner questions
 questions = [
     ("What keyword defines a function?", ["def", "func", "define"], "def"),
